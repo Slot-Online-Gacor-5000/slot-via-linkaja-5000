@@ -1,21 +1,21 @@
 {
-  "name": "slot-via-gopay-5000",
-  "main": "./slots/slot-via-gopay-5000",
-  "version": "1.2.0",
-  "description": "Daftar slot deposit gopay 5000",
+  "name": "slot-via-linkaja-5000",
+  "main": "./slots/slot-via-linkaja-5000",
+  "version": "1.0.0",
+  "description": "Daftar slot deposit Linkaja 5000",
   "keywords": [
-    "Slot Deposit Gopay",
-    "Slot Deposit Gopay Tanpa Potongan",
-    "Slot Gopay",
-    "Slot Gopay 5000",
-    "Slot Gopay 5000 Tanpa Potongan",
-    "Slot Gopay Tanpa Potongan",
-    "Slot Via Gopay"
+    "Slot Deposit Linkaja",
+    "Slot Deposit Linkaja Tanpa Potongan",
+    "Slot Linkaja",
+    "Slot Linkaja 5000",
+    "Slot Linkaja 5000 Tanpa Potongan",
+    "Slot Linkaja Tanpa Potongan",
+    "Slot Via Linkaja"
   ],
   "activationCommands": {
-    "atom-workspace": "slot-Gopay-5000:toggle"
+    "atom-workspace": "slot-linkaja-5000:toggle"
   },
-  "repository": "https://github.com/Slot-Online-Gacor-5000/slot-via-gopay-5000",
+  "repository": "https://github.com/Slot-Online-Gacor-5000/slot-via-linkaja-5000",
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
