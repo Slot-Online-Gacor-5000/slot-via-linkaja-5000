@@ -1,21 +1,21 @@
 {
-  "name": "slot-deposit-dana-5000",
-  "main": "./slots/slot-dana-5000",
+  "name": "slot-via-gopay-5000",
+  "main": "./slots/slot-via-gopay-5000",
   "version": "1.1.0",
-  "description": "Daftar slot deposit dana 5000",
+  "description": "Daftar slot deposit gopay 5000",
   "keywords": [
-    "Slot Deposit dana",
-    "Slot Deposit dana Tanpa Potongan",
-    "Slot dana",
-    "Slot dana 5000",
-    "Slot dana 5000 Tanpa Potongan",
-    "Slot dana Tanpa Potongan",
-    "Slot Via dana"
+    "Slot Deposit Gopay",
+    "Slot Deposit Gopay Tanpa Potongan",
+    "Slot Gopay",
+    "Slot Gopay 5000",
+    "Slot Gopay 5000 Tanpa Potongan",
+    "Slot Gopay Tanpa Potongan",
+    "Slot Via Gopay"
   ],
   "activationCommands": {
-    "atom-workspace": "slot-dana-5000:toggle"
+    "atom-workspace": "slot-Gopay-5000:toggle"
   },
-  "repository": "https://github.com/Slot-Online-Gacor-5000/slot-via-dana-5000",
+  "repository": "https://github.com/Slot-Online-Gacor-5000/slot-via-gopay-5000",
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
